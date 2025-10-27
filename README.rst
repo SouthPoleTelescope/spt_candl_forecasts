@@ -24,20 +24,22 @@ Available Data
 
 .. list-table::
    :header-rows: 1
-   :widths: 60 10 60
+   :widths: 30 30 30
 
    * - Name
      - Description
      - References
 
    * - SPT-3G Main T&E
-     - SPT-3G Main 5 years temperature and polarization mock likelihood
+     - | SPT-3G Main 5 years temperature 
+       and polarization mock likelihood
      - Vitrier et al. 2025 (in prep.)
 
    * - | SPT-3G Summer a T&E
        | SPT-3G Summer b T&E
        SPT-3G Summer c T&E
-     - SPT-3G Summer a, b and c 4 years temperature and polarization mock likelihoods
+     - | SPT-3G Summer a, b and c 4 years temperature 
+       and polarization mock likelihoods
      - Vitrier et al. 2025 (in prep.)
 
    * - | SPT-3G Wide a T&E
@@ -49,7 +51,8 @@ Available Data
        | SPT-3G Wide g T&E
        | SPT-3G Wide h T&E
        SPT-3G Wide i T&E
-     - SPT-3G Wide a, b, c, d, e, f, g, h and i 1 year temperature and polarization mock likelihoods
+     - | SPT-3G Wide a, b, c, d, e, f, g, h and i 1 year 
+       temperature and polarization mock likelihoods
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Main PP
@@ -59,7 +62,8 @@ Available Data
    * - | SPT-3G Summer a PP
        | SPT-3G Summer b PP
        SPT-3G Summer c PP
-     - SPT-3G Summer a, b and c 4 years lensing mock likelihoods
+     - | SPT-3G Summer a, b and c 4 years lensing 
+       mock likelihoods
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Wide PP
