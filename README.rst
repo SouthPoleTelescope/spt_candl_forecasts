@@ -81,6 +81,7 @@ Additional Info
 ^^^^^^^^^^^^^^^^^^
 
 In order to forecast cosmological parameter constraints from the full Ext-10k survey, the likelihoods of the different fields which compose the survey have to be combined. The basic combination to start with is in temperature and polarization, combining the 13 fields of the Ext-10k survey (1 Main field, 3 Summer fields, and 9 Wide fields). 
+
 The nuisance parameter priors are directly provided in the ``.yaml`` file of each field. However, only those of the Main field are de-commented, so that the priors are not counted 13 times.
 
 ===================
