@@ -38,8 +38,9 @@ Available Data
    * - | SPT-3G Summer-a T&E
        | SPT-3G Summer-b T&E
        SPT-3G Summer-c T&E
-     - | SPT-3G Summer field temperature and polarization 
-       mock likelihoods for 4 years of observation
+     - | SPT-3G Summer field temperature and 
+       | polarization mock likelihoods for 4 years of 
+       observation
      - Vitrier et al. 2025 (in prep.)
 
    * - | SPT-3G Wide-a T&E
@@ -50,7 +51,7 @@ Available Data
        | SPT-3G Wide-f T&E
        | SPT-3G Wide-g T&E
        | SPT-3G Wide-h T&E
-       SPT-3G Wide i T&E
+       SPT-3G Wide-i T&E
      - | SPT-3G Wide field temperature and polarization 
        mock likelihoods for 1 year of observation
      - Vitrier et al. 2025 (in prep.)
@@ -60,9 +61,9 @@ Available Data
        5 years of observation
      - Vitrier et al. 2025 (in prep.)
    
-   * - | SPT-3G Summer a PP
-       | SPT-3G Summer b PP
-       SPT-3G Summer c PP
+   * - | SPT-3G Summer-a PP
+       | SPT-3G Summer-b PP
+       SPT-3G Summer-c PP
      - | SPT-3G Summer field lensing mock likelihoods 
        for 4 years of observation
      - Vitrier et al. 2025 (in prep.)
