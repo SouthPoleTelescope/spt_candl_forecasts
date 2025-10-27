@@ -1,0 +1,14 @@
+# SPT-3G Summer-a 4 years Lensing
+# Vitrier et al. 2025
+
+# BASE INFORMATION
+name: "SPT-3G Summer-a 4 years PP"
+
+# KEY FILES
+band_power_file: "SPT3G_Summer_a_PP_bdp_camb.txt"
+covariance_file: "SPT3G_Summer_a_PP_cov.dat"
+window_functions_folder: "windows/"
+
+# DATA INFORMATION
+spectra_info:
+  - pp: 347
