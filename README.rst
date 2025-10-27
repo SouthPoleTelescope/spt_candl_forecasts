@@ -6,14 +6,14 @@
      <img src="https://github.com/Lbalkenhol/candl/raw/main/docs/logos/candl_wordmark&symbol_col_RGB.png" style="width:55%;"/>
    </div>
    
-   <h1>Official SPT mock data for forecasts with <tt>candl</tt></h1>
+   <h1>Official SPT mock likelihoods for forecasts with <tt>candl</tt></h1>
 
-Official SPT mock data for forecasts with the differentiable CMB likelihood framework `candl <https://github.com/Lbalkenhol/candl>`_.
+Official SPT mock likelihoods for forecasts with the differentiable CMB likelihood framework `candl <https://github.com/Lbalkenhol/candl>`_.
 
 Download
 ------------
 
-To download the SPT candl mock data, simply navigate to where you would like to store the data and then run::
+To download the SPT candl mock likelihoods, simply navigate to where you would like to store the data and then run::
 
     git clone https://github.com/SouthPoleTelescope/spt_candl_forecasts.git
 
@@ -24,20 +24,20 @@ Available Data
 
 .. list-table::
    :header-rows: 1
-   :widths: 25 25 25
+   :widths: 25 10 25
 
    * - Name
      - Description
      - References
 
    * - SPT-3G Main T&E
-     - SPT-3G Main 5 years temperature and polarization
+     - SPT-3G Main 5 years temperature and polarization mock likelihood
      - Vitrier et al. 2025 (in prep.)
 
    * - | SPT-3G Summer a T&E
        | SPT-3G Summer b T&E
        SPT-3G Summer c T&E
-     - SPT-3G Summer a, b and c 4 years temperature and polarization
+     - SPT-3G Summer a, b and c 4 years temperature and polarization mock likelihoods
      - Vitrier et al. 2025 (in prep.)
 
    * - | SPT-3G Wide a T&E
@@ -49,21 +49,21 @@ Available Data
        | SPT-3G Wide g T&E
        | SPT-3G Wide h T&E
        SPT-3G Wide i T&E
-     - SPT-3G Wide a, b, c, d, e, f, g, h and i 1 year temperature and polarization
+     - SPT-3G Wide a, b, c, d, e, f, g, h and i 1 year temperature and polarization mock likelihoods
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Main PP
-     - SPT-3G Main 5 years lensing
+     - SPT-3G Main 5 years lensing mock likelihood
      - Vitrier et al. 2025 (in prep.)
    
    * - | SPT-3G Summer a PP
        | SPT-3G Summer b PP
        SPT-3G Summer c PP
-     - SPT-3G Summer a, b and c 4 years lensing
+     - SPT-3G Summer a, b and c 4 years lensing mock likelihoods
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Wide PP
-     - SPT-3G Wide 1 year lensing
+     - SPT-3G Wide 1 year lensing mock likelihood
      - Vitrier et al. 2025 (in prep.)
    
    * - Planck
