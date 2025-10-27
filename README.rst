@@ -15,7 +15,7 @@ Download
 
 To download the SPT candl mock data, simply navigate to where you would like to store the data and then run::
 
-    git clone https://github.com/SouthPoleTelescope/spt_candl_data.git
+    git clone https://github.com/SouthPoleTelescope/spt_candl_forecasts.git
 
 This will download the relevant data files.
 
@@ -24,23 +24,51 @@ Available Data
 
 .. list-table::
    :header-rows: 1
-   :widths: 25 20 25 10
+   :widths: 25 25 25
 
    * - Name
+     - Description
      - References
 
-   * - SPT-3G D1 T&E
-     - | `Camphuis et al. 2025 <https://pole.uchicago.edu/public/Home.html>`__
-      
-       Quan et al. 2025 (in prep.)
+   * - SPT-3G Main T&E
+     - SPT-3G Main 5 years temperature and polarization
+     - Vitrier et al. 2025 (in prep.)
 
-   * - SPT-3G D1 BB
-     - `Zebrowski et al. 2025 <https://pole.uchicago.edu/public/data/zebrowski25>`__
+   * - | SPT-3G Summer a T&E
+       | SPT-3G Summer b T&E
+       SPT-3G Summer c T&E
+     - SPT-3G Summer a, b and c 4 years temperature and polarization
+     - Vitrier et al. 2025 (in prep.)
 
-You can also get a detailed summary of the variants of all likelihoods available, by running the following python code::
-
-    import spt_candl_data
-    spt_candl_data.print_all_shortcuts()
+   * - | SPT-3G Wide a T&E
+       | SPT-3G Wide b T&E
+       | SPT-3G Wide c T&E
+       | SPT-3G Wide d T&E
+       | SPT-3G Wide e T&E
+       | SPT-3G Wide f T&E
+       | SPT-3G Wide g T&E
+       | SPT-3G Wide h T&E
+       SPT-3G Wide i T&E
+     - SPT-3G Wide a, b, c, d, e, f, g, h and i 1 year temperature and polarization
+     - Vitrier et al. 2025 (in prep.)
+   
+   * - SPT-3G Main PP
+     - SPT-3G Main 5 years lensing
+     - Vitrier et al. 2025 (in prep.)
+   
+   * - | SPT-3G Summer a PP
+       | SPT-3G Summer b PP
+       SPT-3G Summer c PP
+     - SPT-3G Summer a, b and c 4 years lensing
+     - Vitrier et al. 2025 (in prep.)
+   
+   * - SPT-3G Wide PP
+     - SPT-3G Wide 1 year lensing
+     - Vitrier et al. 2025 (in prep.)
+   
+   * - Planck
+     - Planck mock likelihood
+     - Vitrier et al. 2025 (in prep.)
 
 ===================
 
