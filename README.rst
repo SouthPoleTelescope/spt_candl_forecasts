@@ -24,7 +24,7 @@ Available Data
 
 .. list-table::
    :header-rows: 1
-   :widths: 10 30 10
+   :widths: 30 10 30
 
    * - Name
      - Description
