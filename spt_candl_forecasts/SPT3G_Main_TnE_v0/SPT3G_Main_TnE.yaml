@@ -8,8 +8,8 @@ name: "SPT-3G Main 5 years TnE"
 feedback: True
 
 # KEY FILES
-band_power_file: "SPT3G_Main_bdp_camb.txt"        
-covariance_file: "SPT3G_Main_cov.dat"
+band_power_file: "SPT3G_Main_TnE_bdp_camb.txt"        
+covariance_file: "SPT3G_Main_TnE_cov.dat"
 window_functions_folder: "windows/"                 
 effective_frequencies: "effective_frequencies.yaml" 
 

@@ -1,15 +1,15 @@
-# SPT-3G Wide-c 1 year T&E
+# SPT-3G Wide-g 1 year T&E
 # Vitrier et al. 2025
 
 # BASE INFORMATION
-name: "SPT-3G Wide-c 1 year TnE"
+name: "SPT-3G Wide-g 1 year TnE"
 
 # FEEDBACK
 feedback: True
 
 # KEY FILES
-band_power_file: "SPT3G_Wide_c_bdp_camb.txt"        
-covariance_file: "SPT3G_Wide_c_cov.dat"
+band_power_file: "SPT3G_Wide_g_TnE_bdp_camb.txt"        
+covariance_file: "SPT3G_Wide_g_TnE_cov.dat"
 window_functions_folder: "windows/"                 
 effective_frequencies: "effective_frequencies.yaml" 
 
@@ -205,4 +205,3 @@ data_model:
 #   - par_names: "TT_tSZ_CIB_Corr_Amp"
 #     central_value: 0.1801
 #     prior_std: 0.3342
-

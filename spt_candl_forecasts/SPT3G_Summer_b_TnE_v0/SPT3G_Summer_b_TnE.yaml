@@ -1,15 +1,15 @@
-# SPT-3G Summer-a 4 years T&E
+# SPT-3G Summer-b 4 years T&E
 # Vitrier et al. 2025
 
 # BASE INFORMATION
-name: "SPT-3G Summer-a 4 years TnE"
+name: "SPT-3G Summer-b 4 years TnE"
 
 # FEEDBACK
 feedback: True
 
 # KEY FILES
-band_power_file: "SPT3G_Summer_a_bdp_camb.txt"        
-covariance_file: "SPT3G_Summer_a_cov.dat"
+band_power_file: "SPT3G_Summer_b_TnE_bdp_camb.txt"        
+covariance_file: "SPT3G_Summer_b_TnE_cov.dat"
 window_functions_folder: "windows/"                 
 effective_frequencies: "effective_frequencies.yaml" 
 
@@ -190,7 +190,7 @@ data_model:
 #   - par_names: 'TT_GalCirrus_Beta'
 #     central_value: 1.48
 #     prior_std: 0.02
-#   - par_names: 'TT_GalCirrus_Amp'         
+#   - par_names: 'TT_GalCirrus_Amp'          
 #     central_value: 1.88
 #     prior_std: 0.48
 #   - par_names: 'TT_tSZ_Amp'

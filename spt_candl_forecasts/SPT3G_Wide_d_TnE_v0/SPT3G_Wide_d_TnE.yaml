@@ -1,15 +1,15 @@
-# SPT-3G Wide-h 1 year T&E
+# SPT-3G Wide-d 1 year T&E
 # Vitrier et al. 2025
 
 # BASE INFORMATION
-name: "SPT-3G Wide-h 1 year TnE"
+name: "SPT-3G Wide-d 1 year TnE"
 
 # FEEDBACK
 feedback: True
 
 # KEY FILES
-band_power_file: "SPT3G_Wide_h_bdp_camb.txt"        
-covariance_file: "SPT3G_Wide_h_cov.dat"
+band_power_file: "SPT3G_Wide_d_TnE_bdp_camb.txt"        
+covariance_file: "SPT3G_Wide_d_TnE_cov.dat"
 window_functions_folder: "windows/"                 
 effective_frequencies: "effective_frequencies.yaml" 
 
