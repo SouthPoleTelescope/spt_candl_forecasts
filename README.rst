@@ -31,43 +31,45 @@ Available Data
      - References
 
    * - SPT-3G Main T&E
-     - | SPT-3G Main 5 years temperature and 
-       polarization mock likelihood
+     - | SPT-3G Main field temperature and polarization
+       mock likelihood for 5 years of observation
      - Vitrier et al. 2025 (in prep.)
 
-   * - | SPT-3G Summer a T&E
-       | SPT-3G Summer b T&E
-       SPT-3G Summer c T&E
-     - | SPT-3G Summer a, b, and c 4 years temperature 
-       and polarization mock likelihoods
+   * - | SPT-3G Summer-a T&E
+       | SPT-3G Summer-b T&E
+       SPT-3G Summer-c T&E
+     - | SPT-3G Summer field temperature and polarization 
+       mock likelihoods for 4 years of observation
      - Vitrier et al. 2025 (in prep.)
 
-   * - | SPT-3G Wide a T&E
-       | SPT-3G Wide b T&E
-       | SPT-3G Wide c T&E
-       | SPT-3G Wide d T&E
-       | SPT-3G Wide e T&E
-       | SPT-3G Wide f T&E
-       | SPT-3G Wide g T&E
-       | SPT-3G Wide h T&E
+   * - | SPT-3G Wide-a T&E
+       | SPT-3G Wide-b T&E
+       | SPT-3G Wide-c T&E
+       | SPT-3G Wide-d T&E
+       | SPT-3G Wide-e T&E
+       | SPT-3G Wide-f T&E
+       | SPT-3G Wide-g T&E
+       | SPT-3G Wide-h T&E
        SPT-3G Wide i T&E
-     - | SPT-3G Wide a, b, c, d, e, f, g, h, and i 1 year 
-       temperature and polarization mock likelihoods
+     - | SPT-3G Wide field temperature and polarization 
+       mock likelihoods for 1 year of observation
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Main PP
-     - SPT-3G Main 5 years lensing mock likelihood
+     - | SPT-3G Main field lensing mock likelihood for 
+       5 years of observation
      - Vitrier et al. 2025 (in prep.)
    
    * - | SPT-3G Summer a PP
        | SPT-3G Summer b PP
        SPT-3G Summer c PP
-     - | SPT-3G Summer a, b, and c 4 years lensing 
-       mock likelihoods
+     - | SPT-3G Summer field lensing mock likelihoods 
+       for 4 years of observation
      - Vitrier et al. 2025 (in prep.)
    
    * - SPT-3G Wide PP
-     - SPT-3G Wide 1 year lensing mock likelihood
+     - | SPT-3G Wide field lensing mock likelihood for 
+       1 year of observation
      - Vitrier et al. 2025 (in prep.)
    
    * - Planck
