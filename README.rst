@@ -82,7 +82,7 @@ Additional Info
 
 In order to forecast cosmological parameter constraints from the full Ext-10k survey, the SPT-3G likelihoods of the different fields have to be combined. The basic combination to start with is in temperature and polarization, combining the 13 fields of the Ext-10k survey (1 Main field, 3 Summer fields, and 9 Wide fields). 
 
-The temperature and polarization nuisance parameter priors are directly provided in the ``.yaml`` file of each field. However, only those of the Main field are de-commented, so that the priors are not counted 13 times. In the case of forecasting comstraints from the Wide survey only for instance, the nuisance parameter priors need to be de-commented in one of the Wide fields ``.yaml`` files.
+The temperature and polarization nuisance parameter priors are directly provided in the ``.yaml`` file of each field. However, only those of the Main field are de-commented, so that the priors are not counted 13 times. In the case of forecasting constraints from the Wide survey only, for instance, the nuisance parameter priors need to be de-commented in one of the Wide fields T&E ``.yaml`` files.
 
 ===================
 
