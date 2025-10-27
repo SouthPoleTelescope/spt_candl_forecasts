@@ -19,7 +19,7 @@ To download the SPT candl mock likelihoods, simply navigate to where you would l
 
 This will download the relevant data files.
 
-Available Data
+Available mock data
 --------------
 
 .. list-table::
