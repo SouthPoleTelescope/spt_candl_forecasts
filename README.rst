@@ -100,7 +100,7 @@ Notebook
 Cobaya
 ^^^^^^^^^^^^^^
 
-You can find a template Cobaya ``.yaml`` file to help you launch chains as well as a ΛCDM proposal matrix in the ``cobaya/`` folder. This template shows how to combine 18 likelihoods (13 T&E and 5 lensing) with cobaya to forecasts cosmological parameter constraints from Ext-10k.
+You can find a template Cobaya ``.yaml`` file to help you launch chains as well as a ΛCDM proposal matrix in the ``cobaya/`` folder. This template shows you how to combine 18 likelihoods (13 T&E and 5 lensing) to forecast cosmological parameter constraints from the Ext-10k survey.
 
 ===================
 
