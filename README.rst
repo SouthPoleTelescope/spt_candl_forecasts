@@ -87,13 +87,13 @@ The temperature and polarization nuisance parameter priors are directly provided
 Getting Started
 --------------
 
-We supply files to help you use SPT data with common cosmological samplers as well as tutorials on how to interact with the data and perform common analysis tasks.
+We supply files to help you use the SPT mock data with cobaya as well as a tutorial on how to interact with the mock likelihoods.
 You can find more help and tutorials in the `candl documentation <http://candl.readthedocs.io>`_.
 
-Notebooks
+Notebook
 ^^^^^^^^^^^^^^
 
-``tutorial_notebooks/SPT3G_Ext10k_TnE_tutorial.ipynb``: this notebook uses the SPT-3G Ext-10k T&E likelihoods and shows you how to initialize the likelihoods and compute the Ext-10k T&E Fisher matrix.
+``tutorial_notebooks/SPT3G_Ext10k_TnE_tutorial.ipynb``: this notebook uses the SPT-3G Ext-10k T&E mock likelihoods and shows you how to initialize the likelihoods and compute the Ext-10k T&E Fisher matrix.
 
 Cobaya
 ^^^^^^^^^^^^^^
