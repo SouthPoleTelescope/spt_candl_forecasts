@@ -17,7 +17,7 @@ To download the SPT candl mock likelihoods, simply navigate to where you would l
 
     git clone https://github.com/SouthPoleTelescope/spt_candl_forecasts.git
 
-This will download the relevant data files.
+This will download the relevant data files. Note that you also need to install `candl <https://github.com/Lbalkenhol/candl>`_ in order to run the likelihoods, run ``pip install candl`` or see the repository for more detailed instructions.
 
 Available mock data
 --------------
@@ -83,6 +83,22 @@ Additional Info
 In order to forecast cosmological parameter constraints from the full Ext-10k survey, the SPT-3G likelihoods of the different fields have to be combined. The basic combination to start with is in temperature and polarization, combining the 13 fields of the Ext-10k survey (1 Main field, 3 Summer fields, and 9 Wide fields). 
 
 The temperature and polarization nuisance parameter priors are directly provided in the ``.yaml`` file of each field. However, only those of the Main field are de-commented, so that the priors are not counted 13 times. In the case of forecasting constraints from the Wide survey only, the nuisance parameter priors need to be de-commented in one of the Wide fields T&E ``.yaml`` files.
+
+Getting Started
+--------------
+
+We supply files to help you use SPT data with common cosmological samplers as well as tutorials on how to interact with the data and perform common analysis tasks.
+You can find more help and tutorials in the `candl documentation <http://candl.readthedocs.io>`_.
+
+Notebooks
+^^^^^^^^^^^^^^
+
+``tutorial_notebooks/SPT3G_Ext10k_TnE_tutorial.ipynb``: this notebook uses the SPT-3G Ext-10k T&E likelihoods and shows you how to initialize the likelihoods and compute the Ext-10k T&E Fisher matrix.
+
+Cobaya
+^^^^^^^^^^^^^^
+
+You can find template Cobaya ``.yaml`` files to help you launch chains as well as ΛCDM proposal matrices in the ``cobaya/`` folder
 
 ===================
 
