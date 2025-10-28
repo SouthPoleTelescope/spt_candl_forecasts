@@ -84,6 +84,8 @@ In order to forecast cosmological parameter constraints from the full Ext-10k su
 
 The temperature and polarization nuisance parameter priors are directly provided in the ``.yaml`` file of each field. However, only those of the Main field are de-commented, so that the priors are not counted 13 times. In the case of forecasting constraints from the Wide survey only, the nuisance parameter priors need to be de-commented in one of the Wide fields T&E ``.yaml`` files.
 
+Note that a prior on the optical depth to reionization is also provided in the Main field ``.yaml`` file so that the Ext-10k Fisher matrix can be computed. Be careful not to double count this prior when running Markov Chain Monte Carlo (MCMC).
+
 Getting Started
 --------------
 
