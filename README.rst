@@ -98,7 +98,7 @@ Notebook
 Cobaya
 ^^^^^^^^^^^^^^
 
-You can find template Cobaya ``.yaml`` files to help you launch chains as well as ΛCDM proposal matrices in the ``cobaya/`` folder
+You can find a template Cobaya ``.yaml`` file to help you launch chains as well as a ΛCDM proposal matrix in the ``cobaya/`` folder.
 
 ===================
 
