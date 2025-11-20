@@ -21,7 +21,7 @@ To install the SPT candl mock likelihoods, simply navigate to where you would li
 
 This will download the relevant data files. The installation gives you access to handy short cuts that make it easier to initialise the likelihoods. Note that you also need to install `candl <https://github.com/Lbalkenhol/candl>`_ in order to run the likelihoods, run ``pip install candl`` or see the repository for more detailed instructions.
 
-To check that everything is working and to get a detailed summary of all mock likelihoods available:
+To check that everything is working and to get a detailed summary of all mock likelihoods available::
 
     import spt_candl_data
     spt_candl_data.print_all_shortcuts()
