@@ -29,6 +29,9 @@ To check that everything is working and to get a detailed summary of all mock li
 Available mock data
 --------------
 
+.. |V25| replace:: Vitrier *et al* 2025
+.. _V25: https://arxiv.org/abs/2510.24669
+
 .. list-table::
    :header-rows: 1
    :widths: 30 30 30
@@ -40,8 +43,7 @@ Available mock data
    * - SPT-3G Main T&E
      - | SPT-3G Main field temperature and polarization
        mock likelihood for 5 years of observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_
 
    * - | SPT-3G Summer-a T&E
        | SPT-3G Summer-b T&E
