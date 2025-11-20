@@ -29,7 +29,7 @@ To check that everything is working and to get a detailed summary of all mock li
 Available mock data
 --------------
 
-.. |V25| replace:: Vitrier *et al* 2025
+.. |V25| replace:: Vitrier et al. 2025
 .. _V25: https://arxiv.org/abs/2510.24669
 
 .. list-table::
@@ -43,7 +43,7 @@ Available mock data
    * - SPT-3G Main T&E
      - | SPT-3G Main field temperature and polarization
        mock likelihood for 5 years of observation
-     - |V25|_
+     - |V25|_ (submitted)
 
    * - | SPT-3G Summer-a T&E
        | SPT-3G Summer-b T&E
@@ -51,8 +51,7 @@ Available mock data
      - | SPT-3G Summer field temperature and 
        | polarization mock likelihoods for 4 years of 
        observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
 
    * - | SPT-3G Wide-a T&E
        | SPT-3G Wide-b T&E
@@ -65,33 +64,28 @@ Available mock data
        SPT-3G Wide-i T&E
      - | SPT-3G Wide field temperature and polarization 
        mock likelihoods for 1 year of observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
    
    * - SPT-3G Main PP
      - | SPT-3G Main field lensing mock likelihood for 
        5 years of observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
    
    * - | SPT-3G Summer-a PP
        | SPT-3G Summer-b PP
        SPT-3G Summer-c PP
      - | SPT-3G Summer field lensing mock likelihoods 
        for 4 years of observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
    
    * - SPT-3G Wide PP
      - | SPT-3G Wide field lensing mock likelihood for 
        1 year of observation
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
    
    * - Planck
      - Planck mock likelihood
-     - | Vitrier et al. 2025 
-       arXiv:2510.24669 (submitted)
+     - |V25|_ (submitted)
 
 Additional Info
 ^^^^^^^^^^^^^^^^^^
