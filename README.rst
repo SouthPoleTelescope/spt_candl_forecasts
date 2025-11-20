@@ -24,7 +24,7 @@ Available mock data
 
 .. list-table::
    :header-rows: 1
-   :widths: 30 30 30
+   :widths: 30 30 10
 
    * - Name
      - Description
