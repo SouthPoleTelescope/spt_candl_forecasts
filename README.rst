@@ -23,8 +23,8 @@ This will download the relevant data files. The installation gives you access to
 
 To check that everything is working and to get a detailed summary of all mock likelihoods available::
 
-    import spt_candl_data
-    spt_candl_data.print_all_shortcuts()
+    import spt_candl_forecasts
+    spt_candl_forecasts.print_all_shortcuts()
 
 Available mock data
 --------------
