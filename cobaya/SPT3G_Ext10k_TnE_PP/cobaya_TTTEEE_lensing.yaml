@@ -1,7 +1,7 @@
 likelihood:
   my_lik_1:
     external: &id001 !!python/name:candl.interface.CandlCobayaLikelihood ''
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Main_TnE_v0/SPT3G_Main_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Main_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -9,7 +9,7 @@ likelihood:
     data_selection: null
   my_lik_2:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_a_TnE_v0/SPT3G_Summer_a_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_a_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -17,7 +17,7 @@ likelihood:
     data_selection: null
   my_lik_3:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_b_TnE_v0/SPT3G_Summer_b_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_b_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -25,7 +25,7 @@ likelihood:
     data_selection: null
   my_lik_4:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_c_TnE_v0/SPT3G_Summer_c_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_c_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -33,7 +33,7 @@ likelihood:
     data_selection: null
   my_lik_5:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_a_TnE_v0/SPT3G_Wide_a_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_a_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -41,7 +41,7 @@ likelihood:
     data_selection: null
   my_lik_6:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_b_TnE_v0/SPT3G_Wide_b_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_b_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -49,7 +49,7 @@ likelihood:
     data_selection: null
   my_lik_7:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_c_TnE_v0/SPT3G_Wide_c_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_c_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -57,7 +57,7 @@ likelihood:
     data_selection: null
   my_lik_8:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_d_TnE_v0/SPT3G_Wide_d_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_d_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -65,7 +65,7 @@ likelihood:
     data_selection: null
   my_lik_9:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_e_TnE_v0/SPT3G_Wide_e_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_e_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -73,7 +73,7 @@ likelihood:
     data_selection: null
   my_lik_10:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_f_TnE_v0/SPT3G_Wide_f_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_f_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -81,7 +81,7 @@ likelihood:
     data_selection: null
   my_lik_11:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_g_TnE_v0/SPT3G_Wide_g_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_g_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -89,7 +89,7 @@ likelihood:
     data_selection: null
   my_lik_12:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_h_TnE_v0/SPT3G_Wide_h_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_h_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -97,7 +97,7 @@ likelihood:
     data_selection: null
   my_lik_13:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_i_TnE_v0/SPT3G_Wide_i_TnE.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_i_TnE ''
     clear_internal_priors: false
     feedback: true
     wrapper: null
@@ -105,7 +105,7 @@ likelihood:
     data_selection: null
   my_lenslik_1:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Main_PP_v0/SPT3G_Main_PP.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Main_PP ''
     clear_internal_priors: true
     feedback: true
     wrapper: null
@@ -113,7 +113,7 @@ likelihood:
     lensing: true
   my_lenslik_2:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_a_PP_v0/SPT3G_Summer_a_PP.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_a_PP ''
     clear_internal_priors: true
     feedback: true
     wrapper: null
@@ -121,7 +121,7 @@ likelihood:
     lensing: true
   my_lenslik_3:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_b_PP_v0/SPT3G_Summer_b_PP.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_b_PP
     clear_internal_priors: true
     feedback: true
     wrapper: null
@@ -129,7 +129,7 @@ likelihood:
     lensing: true
   my_lenslik_4:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Summer_c_PP_v0/SPT3G_Summer_c_PP.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Summer_c_PP
     clear_internal_priors: true
     feedback: true
     wrapper: null
@@ -137,7 +137,7 @@ likelihood:
     lensing: true
   my_lenslik_5:
     external: *id001
-    data_set_file: ../../spt_candl_forecasts/SPT3G_Wide_PP_v0/SPT3G_Wide_PP.yaml
+    data_set_file: !!python/name:spt_candl_forecasts.SPT3G_Wide_PP
     clear_internal_priors: true
     feedback: true
     wrapper: null
@@ -217,9 +217,8 @@ params:
   tau:
     latex: \tau_\mathrm{reio}
     prior:
-      dist: norm
-      loc: 0.054
-      scale: 0.0074
+      min: 0.0
+      max: 0.12
     proposal: 0.003
     ref:
       dist: norm
